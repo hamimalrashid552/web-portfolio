@@ -42,7 +42,7 @@
     text-align: center;
 }
 
-.hero-content>button {
+.hero-content>button  {
     padding: 21px 24px 21px 24px;
     margin: 32px 0px 32px 350px;
     border-radius: 8px;
@@ -52,6 +52,7 @@
     font-weight: 600;
     line-height: 23px;
     text-align: center;
+    
 }
 
 .main {
@@ -259,3 +260,19 @@
     font-weight: 600;
     line-height: 23px;
 }
+
+.footer {
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+}
+
+.footer-size{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+
+
