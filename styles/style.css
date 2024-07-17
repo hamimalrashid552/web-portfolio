@@ -159,3 +159,37 @@
     width: 1076px;
     height: 550px;
 }
+
+.box-part {
+    display: flex;
+    gap: 10px;
+}
+
+.bp-1 {
+    border-radius: 16px;
+    width: 364px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 40px 40px 0 40px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 24px;
+    text-align: left;
+}
+
+.box-color-1{
+    background: rgba(255, 76, 30, 0.05);
+}
+
+.box-color-2{
+    background: rgba(0, 76, 232, 0.05);
+}
+
+.box-color-3{
+    background: rgba(255, 223, 0, 0.05);
+}
+
